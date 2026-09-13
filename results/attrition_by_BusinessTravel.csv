@@ -1,0 +1,4 @@
+BusinessTravel,headcount,leavers,median_income,attrition_pct,lift
+Travel_Frequently,277,69,4735.0,24.9,1.55
+Travel_Rarely,1043,156,4960.0,15.0,0.93
+Non-Travel,150,12,4973.5,8.0,0.5

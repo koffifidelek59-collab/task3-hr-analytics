@@ -1,0 +1,6 @@
+tenure_band,headcount,leavers,median_income,attrition_pct,lift
+Under 1 year,215,75,2853.0,34.9,2.16
+1 to 2,127,27,3212.0,21.3,1.32
+3 to 5,434,60,4228.5,13.8,0.86
+6 to 10,448,55,5667.0,12.3,0.76
+Over 10,246,20,10441.0,8.1,0.5

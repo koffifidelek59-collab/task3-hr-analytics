@@ -1,0 +1,5 @@
+JobSatisfaction_label,headcount,leavers,median_income,attrition_pct,lift
+1 Low,289,66,4968.0,22.8,1.42
+3 High,442,73,4788.5,16.5,1.02
+2 Medium,280,46,4853.0,16.4,1.02
+4 Very High,459,52,5126.0,11.3,0.7

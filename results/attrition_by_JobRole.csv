@@ -1,0 +1,10 @@
+JobRole,headcount,leavers,median_income,attrition_pct,lift
+Sales Representative,83,33,2579.0,39.8,2.47
+Laboratory Technician,259,62,2886.0,23.9,1.48
+Human Resources,52,12,3093.0,23.1,1.43
+Sales Executive,326,57,6231.0,17.5,1.08
+Research Scientist,292,47,2887.5,16.1,1.0
+Manufacturing Director,145,10,6447.0,6.9,0.43
+Healthcare Representative,131,9,6811.0,6.9,0.43
+Manager,102,5,17454.5,4.9,0.3
+Research Director,80,2,16510.0,2.5,0.16

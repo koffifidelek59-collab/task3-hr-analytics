@@ -1,0 +1,5 @@
+EnvironmentSatisfaction_label,headcount,leavers,median_income,attrition_pct,lift
+1 Low,284,72,5020.5,25.4,1.57
+2 Medium,287,43,4963.0,15.0,0.93
+3 High,453,62,4855.0,13.7,0.85
+4 Very High,446,60,4872.5,13.5,0.83

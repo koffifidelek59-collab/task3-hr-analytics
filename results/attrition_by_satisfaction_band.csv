@@ -1,0 +1,5 @@
+satisfaction_band,headcount,leavers,median_income,attrition_pct,lift
+Low,166,52,4903.5,31.3,1.94
+Below average,707,115,4768.0,16.3,1.01
+Good,556,69,5150.5,12.4,0.77
+High,41,1,5163.0,2.4,0.15

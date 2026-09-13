@@ -1,0 +1,5 @@
+WorkLifeBalance_label,headcount,leavers,median_income,attrition_pct,lift
+1 Bad,80,25,4269.5,31.2,1.94
+4 Best,153,27,5067.0,17.6,1.09
+2 Good,344,58,4970.0,16.9,1.05
+3 Better,893,127,4941.0,14.2,0.88

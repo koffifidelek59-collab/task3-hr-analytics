@@ -1,0 +1,5 @@
+income_quartile,headcount,leavers,median_income,attrition_pct,lift
+Q1 lowest,369,108,2379.0,29.3,1.82
+Q2,366,52,4032.0,14.2,0.88
+Q3,367,39,6077.0,10.6,0.66
+Q4 highest,368,38,13118.0,10.3,0.64
